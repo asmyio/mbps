@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848324288610",
+    "project_id": "mbpsio",
+    "storage_bucket": "mbpsio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848324288610:android:b2ab55ab1ad826d490713b",
+        "android_client_info": {
+          "package_name": "dev.asmy.mbps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848324288610-lp8l6g6j6lp5mu9e13sf479or1rg0c94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.asmy.mbps",
+            "certificate_hash": "a4319450a0d958e325c685713f7f35e09260e08d"
+          }
+        },
+        {
+          "client_id": "848324288610-oma05a11j0g86blj12uec8i8bk7l3p3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYY5YLSJt0Gd2ZMSNINXsLFZnqTO7FfK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848324288610-oma05a11j0g86blj12uec8i8bk7l3p3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
