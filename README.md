@@ -7,8 +7,7 @@ Motorcycle turn signal module is used for notifying other drivers or road users 
 ### Features
 
 * Detects Rider's turn signal usage at road junction
-* Uploads data on the cloud
-* Dashboard for Data Analytics for Rider's Performance
+* Data Analytics Dashboard for Rider's Performance
 
 ## Authors
 
